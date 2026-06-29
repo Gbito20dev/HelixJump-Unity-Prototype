@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5327390929001490974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2581531364315646204}
+  m_Layer: 0
+  m_Name: 'CuartoMaloCorregido '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2581531364315646204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5327390929001490974}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7371622712018703889}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1606672761794253264
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2581531364315646204}
+    m_Modifications:
+    - target: {fileID: 4852635186233962642, guid: c8eb5c1f697cf8c49ad408703a92c009, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d3cc614a63aa53149b37487f137bf8a1, type: 2}
+    - target: {fileID: 6233675100485138585, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_Name
+      value: cuartoAnillaMalo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+--- !u!4 &7371622712018703889 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8070819493914953665, guid: 70bdba867c4055341926f26b0ab52f81, type: 3}
+  m_PrefabInstance: {fileID: 1606672761794253264}
+  m_PrefabAsset: {fileID: 0}

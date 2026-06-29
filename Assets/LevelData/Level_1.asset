@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86614af450165cf429acd9c008922205, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  colordefondo: {r: 0, g: 1, b: 1, a: 1}
+  pilarColor: {r: 1, g: 1, b: 1, a: 1}
+  distanciaEntreAnillas: 3
+  anillas:
+  - baseRotationY: 42
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 54
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 86
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 123
+    pieces:
+    - tipoFormaPieza: 1
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 245
+    pieces:
+    - tipoFormaPieza: 1
+      tipoPieza: 1
+      localRotationY: 0
+    - tipoFormaPieza: 1
+      tipoPieza: 1
+      localRotationY: 196.3
+  - baseRotationY: 315
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 102
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 351
+    pieces:
+    - tipoFormaPieza: 1
+      tipoPieza: 0
+      localRotationY: 130.1
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 320
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 91
+    pieces:
+    - tipoFormaPieza: 1
+      tipoPieza: 0
+      localRotationY: 90
+    - tipoFormaPieza: 1
+      tipoPieza: 1
+      localRotationY: 0
+  - baseRotationY: 225
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 160
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+    - tipoFormaPieza: 1
+      tipoPieza: 1
+      localRotationY: 90
+  - baseRotationY: 107
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 68
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 53
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 20
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 0
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 238
+    pieces:
+    - tipoFormaPieza: 1
+      tipoPieza: 0
+      localRotationY: 90
+    - tipoFormaPieza: 1
+      tipoPieza: 1
+      localRotationY: 0
+  - baseRotationY: 119
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 0
+      localRotationY: 0
+  - baseRotationY: 154
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 1
+      localRotationY: 0
+  - baseRotationY: 0
+    pieces:
+    - tipoFormaPieza: 0
+      tipoPieza: 2
+      localRotationY: 0
